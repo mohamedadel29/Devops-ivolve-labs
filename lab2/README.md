@@ -48,7 +48,7 @@ mvn test
 
 ### Output
 
-<img src="./images/maven-test.png" width="900">
+<img src="https://github.com/mohamedadel29/Devops-ivolve-labs/blob/main/images/gradle-test.png?raw=true" width="900">
 
 ---
 
@@ -74,7 +74,7 @@ calculator.jar
 
 ### Output
 
-<img src="./images/maven-build.png" width="900">
+<img src="https://github.com/mohamedadel29/Devops-ivolve-labs/blob/main/images/maven-build.png?raw=true" width="900">
 
 ---
 
@@ -100,7 +100,7 @@ Divide: 1.0
 
 ### Output
 
-<img src="./images/run-app2.png" width="900">
+<img src="https://github.com/mohamedadel29/Devops-ivolve-labs/blob/main/images/run-app2.png?raw=true" width="900">
 
 ---
 
